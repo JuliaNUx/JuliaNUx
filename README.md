@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/juliano_bodner">
 <img align="left" alt="instagram-logo" width="32px" src="https://img.icons8.com/?size=100&id=32309&format=png&color=000000" />
 </a> 
-<a href="www.linkedin.com/in/juliano-bodner-ba6b17162">
+<a href="www.linkedin.com/in/juliano-bodner/">
 <img alignt="left" alt="linkidin-logo" width="32px" src="https://img.icons8.com/?size=100&id=446&format=png&color=000000"/>
 </a>  
 </p>
